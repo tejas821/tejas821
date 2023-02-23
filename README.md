@@ -10,9 +10,9 @@ The latest technologies in software development, including new libraries and fra
 📫 How to reach me...
 Let's connect on LinkedIn to explore how I can contribute to your project's success.
 
-💻 My Tech StackFrontend
+💻 My Tech StackFrontend </br></br>
 🅰️ Angular
-<img src="https://material.angular.io/assets/img/favicons/favicon-32x32.png" width="16px" height="16px" alt="Angular Material Icon"> Angular Material
+</br><img src="https://material.angular.io/assets/img/favicons/favicon-32x32.png" width="16px" height="16px" alt="Angular Material Icon"> Angular Material
 </br>
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_32.png" width="16px" height="16px" alt="HTML Icon"> HTML
 </br>
