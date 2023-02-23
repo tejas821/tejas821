@@ -1,14 +1,15 @@
-Hi there, I'm Tejas - Software Engineer with expertise in Fitness, Health Care and Beauty industries 👋
-I bring a unique blend of technical proficiency and industry-specific knowledge to my projects. My passion for delivering quality products, combined with my commitment to staying current with the latest technologies, make me an asset to any development team.
-
+Hi there,</br>
+I'm Tejas - Software Engineer with expertise in Fitness, Health Care and Beauty industries 👋 
+</br>I bring a unique blend of technical proficiency and industry-specific knowledge to my projects. My passion for delivering quality products, combined with my commitment to staying current with the latest technologies, make me an asset to any development team.
+</br></br>
 🔭 I’m currently working on...
-Developing scalable and high-performance software solutions utilizing Amazon Web Services, Git, Bootstrap, Angular, Javascript, Angular Material, SASS, HTML, CSS, and Ruby on Rails.
-
+</br>Developing scalable and high-performance software solutions utilizing Amazon Web Services, Git, Bootstrap, Angular, Javascript, Angular Material, SASS, HTML, CSS, and Ruby on Rails.
+</br></br>
 🌱 I’m currently learning...
-The latest technologies in software development, including new libraries and frameworks.
-
+</br>The latest technologies in software development, including new libraries and frameworks.
+</br></br>
 📫 How to reach me...
-Let's connect on LinkedIn to explore how I can contribute to your project's success.
+</br>Let's connect on LinkedIn to explore how I can contribute to your project's success.
 
 💻 My Tech Stack</br>
 <b>Frontend</b> </br>
@@ -27,7 +28,7 @@ Let's connect on LinkedIn to explore how I can contribute to your project's succ
 </br></br>
 
 📫 How to reach me...
-You can reach me via:
+</br>You can reach me via:
 
 📧 Email: tejasdkadam821@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/tejaskadam821/
