@@ -10,7 +10,8 @@ The latest technologies in software development, including new libraries and fra
 📫 How to reach me...
 Let's connect on LinkedIn to explore how I can contribute to your project's success.
 
-💻 My Tech StackFrontend </br></br>
+💻 My Tech Stack</br>
+<b>Frontend</b> </br></br>
 🅰️ Angular
 </br><img src="https://material.angular.io/assets/img/favicons/favicon-32x32.png" width="16px" height="16px" alt="Angular Material Icon"> Angular Material
 </br>
@@ -24,7 +25,7 @@ Let's connect on LinkedIn to explore how I can contribute to your project's succ
 </br>
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="16px" height="16px" alt="SASS Icon"> SASS
 </br></br>
-Backend
+<b>Backend</b>
 </br><img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" width="16px" height="16px" alt="Ruby on Rails Icon"> Ruby on Rails
 </br><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="16px" height="16px" alt="Node.js Icon"> Node.js
 </br><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="16px" height="16px" alt="AWS Icon"> Amazon Web Services (AWS)
