@@ -13,16 +13,22 @@ Let's connect on LinkedIn to explore how I can contribute to your project's succ
 💻 My Tech StackFrontend
 🅰️ Angular
 <img src="https://material.angular.io/assets/img/favicons/favicon-32x32.png" width="16px" height="16px" alt="Angular Material Icon"> Angular Material
+</br>
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_32.png" width="16px" height="16px" alt="HTML Icon"> HTML
+</br>
 <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" width="16px" height="16px" alt="CSS Icon"> CSS
+</br>
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="16px" height="16px" alt="Bootstrap Icon"> Bootstrap
+</br>
 <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="16px" height="16px" alt="JavaScript Icon"> JavaScript
+</br>
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="16px" height="16px" alt="SASS Icon"> SASS
+</br></br>
 Backend
-<img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" width="16px" height="16px" alt="Ruby on Rails Icon"> Ruby on Rails
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="16px" height="16px" alt="Node.js Icon"> Node.js
-<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="16px" height="16px" alt="AWS Icon"> Amazon Web Services (AWS)
-
+</br><img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" width="16px" height="16px" alt="Ruby on Rails Icon"> Ruby on Rails
+</br><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="16px" height="16px" alt="Node.js Icon"> Node.js
+</br><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="16px" height="16px" alt="AWS Icon"> Amazon Web Services (AWS)
+</br></br>
 
 📫 How to reach me...
 You can reach me via:
